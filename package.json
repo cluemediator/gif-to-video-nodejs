@@ -1,0 +1,17 @@
+{
+  "name": "gif-to-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^1.4.1",
+    "express": "^4.17.3",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
